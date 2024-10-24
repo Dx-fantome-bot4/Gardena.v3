@@ -1,7 +1,7 @@
 <img src="https://i.ibb.co/8mMMr2j/image.jpg" alt="banner">
 <h1 align="center"><img src="https://i.imgur.com/w9kvKEw.jpeg" width="50px">phishing free fire </h1>
 
-<img src="" alt=banner">
+
 <h1 align="center"><img
 src="" width="50px"></h1> 
 
